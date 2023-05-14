@@ -1,0 +1,88 @@
+/* intro */
+/* intro */
+.intro{
+    text-align: center;
+    padding: 2rem 0;
+}
+
+
+
+/* navbar */
+/* navbar */
+.navbar{
+    background-color: white !important;
+}
+.navbar-brand{
+    font-weight: 500;
+    font-size: bold;
+}
+.navbar a{
+    color: black;
+}
+.navbar a:hover{
+    color: BAC494;
+}
+
+#banner{
+    background-size: cover;
+}
+.bg-img{
+    position: relative;
+    height: 50%;
+    width: ;
+}
+.text-cont{
+    position: absolute;
+    width: 50%;
+}
+.text-cont h1{
+    color: yellow;
+}
+.text-cont p{
+    color: white;
+    padding-left: 4rem;
+    text-transform: lowercase;
+    font-size: 1000;
+    font-weight: bolder;
+}
+#welcome{
+    background: rgb(188, 198, 152);
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+/* projects */
+/* projects */
+#project.container{
+    display: flex;
+}
+
+
+/* helping */
+/* helping */
+#helping a{
+    color: yellow;
+}
+
+/* client */
+#client{
+    background: rgb(188, 200, 148) ;
+}
+
+/* footer */
+/* footer */
+
+#footer{
+    background: rgb(247, 247, 247);
+    align-items: center;
+    margin: 0 auto;
+    padding-left: 35rem;
+    padding-top: 3rem;
+}
+.socialicon{
+    padding-top: 1rem;
+    gap: 1rem;
+}
+.copyright{
+    padding-top: 0.5rem;
+}
